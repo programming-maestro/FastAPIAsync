@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+httpx
+requests
+celery
+rabbitmq
+pydantic
+sqlalchemy
